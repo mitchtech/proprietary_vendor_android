@@ -1,0 +1,9 @@
+[submodule "htc"]
+	path = htc
+	url = git://github.com/koush/proprietary_vendor_htc.git
+[submodule "samsung"]
+	path = samsung
+	url = git://github.com/koush/proprietary_vendor_samsung.git
+[submodule "motorola"]
+	path = motorola
+	url = git://github.com/koush/proprietary_vendor_motorola.git
