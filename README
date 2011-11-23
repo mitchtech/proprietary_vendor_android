@@ -1,0 +1,7 @@
+Aggregation of Android device specific proprietary vendor files.
+
+To populate the individual repos:
+
+git submodule init
+git submodule update
+
